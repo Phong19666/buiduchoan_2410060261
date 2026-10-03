@@ -1,0 +1,7 @@
+# CÁC CÂU LỆNH CHẠY BÀI TẬP LAB-01 EX03:
+python ex03_01.py
+python ex03_02.py
+python ex03_03.py
+python ex03_04.py
+python ex03_05.py
+python ex03_06.py

@@ -1,0 +1,2 @@
+# LỆNH CHẠY BÀI TẬP OOP QUẢN LÝ SINH VIÊN (ex04):
+python Main.py
