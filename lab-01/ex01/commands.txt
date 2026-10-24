@@ -1,0 +1,3 @@
+# LỆNH CHẠY BÀI THỰC HÀNH 01 (ex01)
+# Mở Terminal tại thư mục này và gõ:
+python hello.py

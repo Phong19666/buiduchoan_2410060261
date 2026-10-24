@@ -1,0 +1,6 @@
+# LỆNH CHẠY FLASK REST API:
+# Cài đặt thư viện:
+pip install -r requirements.txt
+
+# Khởi chạy server API (chạy tại http://127.0.0.1:5000):
+python api.py
